@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\EnumExcepTask\EnumExcepTask\bin\Debug\netcoreapp3.1\EnumExcepTask.exe
+C:\Users\User\source\repos\EnumExcepTask\EnumExcepTask\bin\Debug\netcoreapp3.1\EnumExcepTask.deps.json
+C:\Users\User\source\repos\EnumExcepTask\EnumExcepTask\bin\Debug\netcoreapp3.1\EnumExcepTask.runtimeconfig.json
+C:\Users\User\source\repos\EnumExcepTask\EnumExcepTask\bin\Debug\netcoreapp3.1\EnumExcepTask.runtimeconfig.dev.json
+C:\Users\User\source\repos\EnumExcepTask\EnumExcepTask\bin\Debug\netcoreapp3.1\EnumExcepTask.dll
+C:\Users\User\source\repos\EnumExcepTask\EnumExcepTask\bin\Debug\netcoreapp3.1\EnumExcepTask.pdb
+C:\Users\User\source\repos\EnumExcepTask\EnumExcepTask\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\User\source\repos\EnumExcepTask\EnumExcepTask\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\User\source\repos\EnumExcepTask\EnumExcepTask\obj\Debug\netcoreapp3.1\EnumExcepTask.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\EnumExcepTask\EnumExcepTask\obj\Debug\netcoreapp3.1\EnumExcepTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\EnumExcepTask\EnumExcepTask\obj\Debug\netcoreapp3.1\EnumExcepTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EnumExcepTask\EnumExcepTask\obj\Debug\netcoreapp3.1\EnumExcepTask.AssemblyInfo.cs
+C:\Users\User\source\repos\EnumExcepTask\EnumExcepTask\obj\Debug\netcoreapp3.1\EnumExcepTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EnumExcepTask\EnumExcepTask\obj\Debug\netcoreapp3.1\EnumExcepTask.csproj.CopyComplete
+C:\Users\User\source\repos\EnumExcepTask\EnumExcepTask\obj\Debug\netcoreapp3.1\EnumExcepTask.dll
+C:\Users\User\source\repos\EnumExcepTask\EnumExcepTask\obj\Debug\netcoreapp3.1\EnumExcepTask.pdb
+C:\Users\User\source\repos\EnumExcepTask\EnumExcepTask\obj\Debug\netcoreapp3.1\EnumExcepTask.genruntimeconfig.cache

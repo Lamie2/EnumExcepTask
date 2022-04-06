@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\EnumExcepTask\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.deps.json
+C:\Users\User\source\repos\EnumExcepTask\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\User\source\repos\EnumExcepTask\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\User\source\repos\EnumExcepTask\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\EnumExcepTask\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\EnumExcepTask\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EnumExcepTask\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfo.cs
+C:\Users\User\source\repos\EnumExcepTask\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EnumExcepTask\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\User\source\repos\EnumExcepTask\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.pdb
